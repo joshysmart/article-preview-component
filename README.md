@@ -23,4 +23,4 @@ Your users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 - See the social media share links when they click the share icon
 
-View my [solution](https://article-preview-component-five-lime.vercel.app/)
+View my [solution](https://www.frontendmentor.io/solutions/articlepreviewcomponent-built-using-sass-html-js-Yf_8r7Hi_/)
